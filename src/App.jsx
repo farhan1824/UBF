@@ -19,7 +19,7 @@ function App() {
       {/* Hero */}
       <section className="hero">
         <div className="hero-content">
-          <p className="hero-eyebrow">Every drop counts</p>
+          <p className="hero-eyebrow">Count kore lab nai ga hudai</p>
           <h1>Give the Gift<br />of <span className="highlight">Life</span></h1>
           <p className="hero-sub">
             One donation can save up to three lives. Join thousands of donors
