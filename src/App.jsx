@@ -6,7 +6,7 @@ function App() {
       {/* Navbar */}
       <nav className="navbar">
         <div className="nav-brand">
-          <span className="drop">♥</span> LifeDrop
+          <span className="drop">♥</span> NO LIFE DROP
         </div>
         <ul className="nav-links">
           <li><a href="#about">About</a></li>
